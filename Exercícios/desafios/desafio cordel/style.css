@@ -42,18 +42,16 @@ header{
  a{
     padding: 10px;
     color: white;
-    text-decoration: underline;
-    
+    text-decoration: none;  
 }
 
 a:visited{
-    color: red;
-    text-decoration: overline;
+    color: rgb(252, 130, 130);
 }
 
-a:hoover{
+a:hover{
     text-decoration: underline;
-    color: aqua;
+    color: rgb(92, 161, 250);
 }
 
 
