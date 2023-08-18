@@ -69,12 +69,14 @@ section.imagem{
     background-repeat:no-repeat;
     background-attachment: fixed;
     font-family: 'Sriracha', cursive;
+}
 
 section.imagem > p{
-    background-color: rgba(0, 0, 0, 0.705);
+    background-color: rgba(0, 0, 0, 0.349);
     width: 400px;
 }
-footer{
+
+footer > p{
     background-color: black;
     color: white;
     text-align: center;
