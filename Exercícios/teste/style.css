@@ -1,0 +1,15 @@
+@charset 'utf-8';
+
+html, body{
+    width: 100vw;
+    height: 100vh;
+    display: flexbox;
+    flex-wrap: wrap-reverse;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    display: inline-flex;
+    
+}
